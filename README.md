@@ -6,8 +6,10 @@ This repository contains a Power BI report that provides a visual and analytical
 
 ## 📁 Files Included
 
-- `M BIT.pbix` — Power BI report file
+- `M BIT.pbix` — Power BI report file *(download and open with Power BI Desktop)*
 - `dashboardscreenshort.png` — Preview image of the report
+
+> **Note:** GitHub cannot preview `.pbix` files in-browser due to size and format. Please download and open the file in Power BI Desktop to view the full dashboard.
 
 ---
 
@@ -36,7 +38,7 @@ This dashboard helps users and analysts:
 
 ## 🖼 Screenshot
 
- ![Dashboard Preview](dashboardscreenshort.png)
+![Dashboard Preview](dashboardscreenshort.png)
 
 ---
 
@@ -57,3 +59,6 @@ Power BI & Data Visualization Enthusiast
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE)
+
+
+
