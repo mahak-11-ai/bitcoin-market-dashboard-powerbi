@@ -36,7 +36,7 @@ This dashboard helps users and analysts:
 
 ## 🖼 Screenshot
 
-![Dashboard Preview](assets/dashboardscreenshort.png)
+ ![Dashboard Preview](dashboardscreenshort.png)
 
 ---
 
